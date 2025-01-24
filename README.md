@@ -36,4 +36,3 @@ This project is a Python-based **Real-Time Emotion Detection System** that ident
 ![Angry (813)](https://github.com/user-attachments/assets/db5079f1-9046-491e-9572-70d9c42fd5e3)
 ![Screenshot (810)](https://github.com/user-attachments/assets/87550e17-f775-4d39-83c4-5c7645c286c0)
 ![Screenshot (811)](https://github.com/user-attachments/assets/6e275250-fc4b-44ac-b25d-480c5bb098fc)
-![Screenshot (812)]
